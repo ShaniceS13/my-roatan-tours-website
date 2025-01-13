@@ -1,3 +1,7 @@
+h2 {
+  text-align: center;
+}
+
 body {
   font-family: Arial, sans-serif;
   margin: 0;
@@ -28,6 +32,7 @@ nav a:hover {
 }
 section {
   padding: 2rem;
+  text-align: center;
 }
 
 .logo {
@@ -70,6 +75,7 @@ section {
 .tour-card p {
   padding: 1rem;
 }
+
 footer {
   text-align: center;
   background: #004d4d;
