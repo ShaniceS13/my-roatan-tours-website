@@ -6,7 +6,7 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
+  background-color: #eaf6f6;
   color: #333;
 }
 header {
@@ -33,6 +33,12 @@ nav a:hover {
 section {
   padding: 2rem;
   text-align: center;
+}
+
+.list {
+  padding: 0;
+  color: teal;
+  fontsize: 18px;
 }
 
 .logo {
